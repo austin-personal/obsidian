@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "Daily/2025-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "2025-05-27"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "Daily/2025-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-26"
+              "title": "Backlinks for 2025-05-27"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "Daily/2025-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-26"
+              "title": "Outgoing links from 2025-05-27"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "Daily/2025-05-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-26"
+              "title": "Outline of 2025-05-27"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
+    "Daily/2025-05-26.md",
+    "Daily/2025-05-27.md",
+    "Daily",
     "BH/Task/Knowledge Transfer/0. 환경설정/1. Cline 설정하기.md",
-    "2025-05-26.md",
     "BH/Task/Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
     "Notes/Ai tool/MCP.md",
     "Notes/Ai tool",
