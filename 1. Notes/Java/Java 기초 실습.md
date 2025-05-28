@@ -42,3 +42,8 @@
 - 인터페이스와 하단의 implimentation은 항상 동행한다. 
 ### 5. MemoryMemberRepository Implimentation
 - Override
+- Map
+- Method
+	- Save
+	- findById
+### 6. Member 
