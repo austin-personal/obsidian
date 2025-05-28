@@ -39,4 +39,6 @@
 	- 해당 클래스의 속성값을 넣기/불러오기 위한 겟과 셋
 	- 속성은 Private이기 때문에 겟과 셋으로 접근한다
 ### 4. MemberRepo Interface
-### 5. 
+- 인터페이스와 하단의 implimentation은 항상 동행한다. 
+### 5. MemoryMemberRepository Implimentation
+- Override
