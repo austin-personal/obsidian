@@ -50,4 +50,5 @@
 - Methods
 	- join
 	- findMember
-### 
+### 7. MemberSeviceImpl implimentation
+
