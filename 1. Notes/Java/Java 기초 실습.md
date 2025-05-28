@@ -62,4 +62,4 @@
 - Methods
 	- join
 	- findMember
-
+# 3. 횡
