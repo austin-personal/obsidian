@@ -58,7 +58,7 @@
 		- 이떄 전에 만든"MemberRepo Interface" 를 선언한다. 
 		- `private final MemberRepository memberRepository;`
 		- 하지만 인터페이스만 선언하면 NullExceptiion이 난다. 실제 Impl이 없기 때문이다. 
-		- 그래서 ``private final MemberRepository memberRepository = new MemoryMemberRepository Implimentation
+		- 그래서 ` private final MemberRepository memberRepository = new MemoryMemberRepository Implimentation
 - Methods
 	- join
 	- findMember
