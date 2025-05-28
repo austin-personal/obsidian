@@ -51,4 +51,10 @@
 	- join
 	- findMember
 ### 7. MemberSeviceImpl implimentation
+- 인터페이스의 실제 구현체들
+	- MemberService의 비즈니스 로직인 조인과 맴버 찾기 기능구현
+	- 이것들은 실제 DB
+- Methods
+	- join
+	- findMember
 
