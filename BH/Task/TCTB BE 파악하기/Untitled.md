@@ -11,7 +11,10 @@ Keyword:
 			- Scheduler
 - 지금은 일단 Java spring 공부와 백엔드 파악하는 것에 초점을 두자.
 ### 1.1 Action Item
-- 
+- Java spring 공부 "효율적으로" 빡세게 하기
+- 공부와 코드 파악 병행하기
+
+
 
 
 
