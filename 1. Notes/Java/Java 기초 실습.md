@@ -63,8 +63,11 @@
 	- join
 	- findMember
 # 3. 회원 도메인 실행과 테스트
+![[Pasted image 20250528222717.png]]
 ### 1. Create MemberApp.java
 ### 2. Create PSVM 
 ### 3. Inject dependency of MemberService And its Implementation
 	- `MemberService service = new MemberServiceImpl();`
-### 4. Create a member ob 
+### 4. Create a member object
+- Member member = new Member( 멤버 정보들)
+### 5. 멤버 서비스 구현체 사용
