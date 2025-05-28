@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Java/Java 기초 실습.md",
+                "file": "2. BH/0. Task/2. BE/0. Logs - Meetings, Feelings, Action Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 기초 실습"
+              "title": "0. Logs - Meetings, Feelings, Action Items"
             }
           }
         ],
@@ -197,11 +197,11 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
+    "1. Notes/Java/개념/자바 프로젝트의 구성요소.md",
+    "1. Notes/Java/Java 기초 실습.md",
     "Pasted image 20250528223411.png",
     "Pasted image 20250528223323.png",
     "Pasted image 20250528222717.png",
-    "1. Notes/Java/개념/자바 프로젝트의 구성요소.md",
-    "1. Notes/Java/Java 기초 실습.md",
     "1. Notes/Java/개념/구현체.md",
     "1. Notes/Java/개념/Class.md",
     "1. Notes/Java/개념/\bJVM.md",
