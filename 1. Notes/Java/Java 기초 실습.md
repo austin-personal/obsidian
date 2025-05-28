@@ -65,3 +65,5 @@
 # 3. 회원 도메인 실행과 테스트
 ### 1. Create MemberApp.java
 ### 2. Create PSVM 
+- Put classes 
+	- MemberSe
