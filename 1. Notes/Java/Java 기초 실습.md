@@ -71,3 +71,6 @@
 ### 4. Create a member object
 - Member member = new Member( 멤버 정보들)
 ### 5. 멤버 서비스 구현체 사용
+
+
+# 4. 주문과 할인 
