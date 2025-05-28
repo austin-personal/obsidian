@@ -65,6 +65,6 @@
 # 3. 회원 도메인 실행과 테스트
 ### 1. Create MemberApp.java
 ### 2. Create PSVM 
-- Inject dependency of MemberService And its Implementation
+### 3. Inject dependency of MemberService And its Implementation
 	- `MemberService service = new MemberServiceImpl();`
-###
+### 4. Create a member ob 
