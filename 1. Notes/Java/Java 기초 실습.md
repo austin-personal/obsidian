@@ -53,7 +53,9 @@
 ### 7. MemberSeviceImpl implimentation
 - 인터페이스의 실제 구현체들
 	- MemberService의 비즈니스 로직인 조인과 맴버 찾기 기능구현
-	- 이것들은 실제 DB
+	- 이것들은 실제 DB에 저장하는 로직들이다. 
+		- 그렇기에 레포지토리와 연결 시켜야한다.
+		- 이떄 전에 만든"MemberRepo Interface" 를 선언한다. 
 - Methods
 	- join
 	- findMember
