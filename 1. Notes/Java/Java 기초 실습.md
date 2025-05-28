@@ -46,4 +46,8 @@
 - Method
 	- Save
 	- findById
-### 6. Member 
+### 6. MemberService interface
+- Methods
+	- join
+	- findMember
+### 
