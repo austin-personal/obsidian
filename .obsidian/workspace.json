@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. BH/Task/2. BE/Logs - Meetings, Feelings, Action Items.md",
+                "file": "2. BH/0. Task/2. BE/1. Loan application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logs - Meetings, Feelings, Action Items"
+              "title": "1. Loan application"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 253.5
   },
   "right": {
     "id": "f5e6a538b7f0ca6b",
@@ -196,15 +196,15 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
-    "2. BH/Task/1. dbt",
-    "2. BH/Task/2. BE/TB.md",
-    "2. BH/Task/2. BE/Logs - Meetings, Feelings, Action Items.md",
+    "2. BH/0. Task/2. BE/0. Logs - Meetings, Feelings, Action Items.md",
+    "2. BH/0. Task/1. dbt",
+    "2. BH/0. Task/2. BE/1. Loan application.md",
     "0. Daily/2025-05-28.md",
     "1. Notes/Java/Java basic.md",
     "1. Notes/Java",
-    "2. BH/Task/0. Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
-    "2. BH/Task/2. BE",
-    "2. BH/Task/0. Knowledge Transfer/0. 환경설정/1. Cline 설정하기.md",
+    "2. BH/0. Task/0. Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
+    "2. BH/0. Task/2. BE",
+    "2. BH/0. Task/0. Knowledge Transfer/0. 환경설정/1. Cline 설정하기.md",
     "0. Daily/2025-05-27.md",
     "0. Daily/2025-05-26.md",
     "0. Daily",
@@ -212,13 +212,12 @@
     "1. Notes/Ai tool",
     "1. Notes",
     "BH/Untitled",
-    "2. BH/Task/0. Knowledge Transfer/1. Target.md",
-    "2. BH/Task/0. Knowledge Transfer/0. 환경설정",
-    "2. BH/Task/0. Knowledge Transfer/2..md",
-    "2. BH/Task/0. Knowledge Transfer",
+    "2. BH/0. Task/0. Knowledge Transfer/1. Target.md",
+    "2. BH/0. Task/0. Knowledge Transfer/0. 환경설정",
+    "2. BH/0. Task/0. Knowledge Transfer/2..md",
+    "2. BH/0. Task/0. Knowledge Transfer",
     "README.md",
-    "2. BH/Task",
-    "2. BH",
+    "2. BH/0. Task",
     "Untitled.canvas"
   ]
 }
