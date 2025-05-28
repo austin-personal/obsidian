@@ -30,4 +30,9 @@
 - 회원 등급 설정
 ### Member CLASS
 - 속성
-- 
+	- private Long id
+	- name
+	- grade
+- getter setter
+	- 해당 클래스의 속성값을 넣기/불러오기 위한 겟과 셋
+	- 속성은 Private이기때문에 
