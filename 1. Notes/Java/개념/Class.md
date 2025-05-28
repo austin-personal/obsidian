@@ -99,3 +99,6 @@ Java는 **클래스 기반 언어**이기 때문에, ==모든 실행 가능한 �
 - **public 클래스**는 소스 파일 이름과 **반드시 일치**
 - JVM은 프로그램을 실행할 때 **public static void main(String[] args)** 메서드를 찾아 실행합니다.
 - 이 메서드는 **클래스** 안에 반드시 있어야 하며, 클래스 이름을 통해 어떤 파일을 로드할지 판단합니다
+
+#### JVM 과 클래스
+Java 프로그램을 실행하려면 **JVM**(Java Virtual Machine)에게 “어디서부터 시작해야 할지” 알려줘야 합니다. 그 역할이 바로 public static void main(String[] args) 메서드와 이를 담고 있는 클래스입니다. 차례대로 살펴보면:
