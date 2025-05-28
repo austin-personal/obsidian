@@ -16,5 +16,6 @@
 
 ### 회원 도메인 설계
 
-- db가 바뀌어도 interface에서 다른 db를 연결하는 코드 한줄만 바꾸면 됨![[Pasted image 20250528183016.png]]
-- 
+![[Pasted image 20250528183016.png]]
+- 회원 저장소 interface: db가 바뀌어도 interface에서 다른 db를 연결하는 코드 한줄만 바꾸면 됨
+- 회원 
