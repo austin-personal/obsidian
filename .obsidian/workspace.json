@@ -35,7 +35,8 @@
               "title": "1. Loan application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9330b2cd592cf2f",
+  "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
-    "2. BH/0. Task/2. BE/1. Loan application.md",
     "2. BH/0. Task/2. BE/0. Logs - Meetings, Feelings, Action Items.md",
+    "2. BH/0. Task/2. BE/1. Loan application.md",
     "2. BH/0. Task/1. dbt",
     "0. Daily/2025-05-28.md",
     "1. Notes/Java/Java basic.md",
