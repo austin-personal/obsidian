@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "right": {
     "id": "f5e6a538b7f0ca6b",
@@ -197,8 +197,9 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
-    "BH/Task/Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
+    "BH/Task/TCTB BE 파악하기/Logs - Meetings, Feelings, Action Items.md",
     "BH/Task/TCTB BE 파악하기/Untitled.md",
+    "BH/Task/Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
     "BH/Task/TCTB BE 파악하기",
     "BH/Task/Knowledge Transfer/0. 환경설정/1. Cline 설정하기.md",
     "Daily/2025-05-27.md",
