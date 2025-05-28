@@ -105,4 +105,4 @@ Java 프로그램을 실행하려면 **[[JVM]]**(Java Virtual Machine)에게 �
 
 
 
-[^1]: 이것은 **[[Method Declaration]]**라고한다
+[^1]: 이것은 **[[Method Declaration Components]]**라고한다
