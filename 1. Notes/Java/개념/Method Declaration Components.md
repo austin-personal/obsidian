@@ -28,7 +28,8 @@ Method Declaration은 말 그대로 Method를 Declare할때 필요한 요소들�
         
     
 ### Example 
-> public static void main(String[] args)
+> public static void main(String[] args) { 
+>  본문 }
   
 
 이 중 앞의 네 가지(수정자+반환 타입+메서드 이름+매개변수 목록)를 **메서드 시그니처(method signature)** 라 부르며, 그 뒤에 따라오는 { … } 를 **메서드 본문(method body)** 또는 **메서드 구현부(implementation block)** 라고 합니다.
