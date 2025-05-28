@@ -10,9 +10,8 @@ Keyword:
 		- 그외
 			- Scheduler
 - 지금은 일단 Java spring 공부와 백엔드 파악하는 것에 초점을 두자.
-> Action Item
->> 
-
+### 1.1 Action Item
+- 
 
 
 
