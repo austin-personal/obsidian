@@ -40,6 +40,7 @@
 ---자바(Java)에서 **클래스(class)** 는 객체 지향 프로그래밍의 기본 단위로, **객체(object)** 를 생성하기 위한 설계도(템플릿) 역할을 합니다. 클래스는 상태(state)와 동작(behavior)을 한 곳에 묶어 정의합니다.자바(Java)에서 **클래스(class)** 는 객체 지향 프로그래밍의 기본 단위로, **객체(object)** 를 생성하기 위한 설계도(템플릿) 역할을 합니다. 클래스는 상태(state)와 동작(behavior)을 한 곳에 묶어 정의합니다.
 
 # 2. Example
+#### 2.1 Class 선언
 ```java
 // 클래스 선언
 public class Person {
@@ -72,6 +73,20 @@ public class Person {
         if (age >= 0) {
             this.age = age;
         }
+    }
+}
+```
+#### 2.2 클래스 인스턴스/객체 생성
+```Java
+public class Main {
+    public static void main(String[] args) {
+        // Person 클래스의 인스턴스 생성
+        Person p = new Person("철수", 25);
+        p.introduce();  // 출력: 안녕하세요, 저는 철수이고, 나이는 25살입니다.
+        
+        // 필드 값 변경
+        p.setAge(26);
+        System.out.println(p.getName() + "님의 새로운 나이: " + p.getAge());
     }
 }
 ```
