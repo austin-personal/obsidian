@@ -103,6 +103,6 @@ Java는 **클래스 기반 언어**이기 때문에, ==모든 실행 가능한 �
 #### JVM, **method declaration**, 메인 클래스
 Java 프로그램을 실행하려면 **[[JVM]]**(Java Virtual Machine)에게 “어디서부터 시작해야 할지” 알려줘야 합니다. 그 역할이 바로 public static void main(String[] args)[^1] 메서드와 이를 담고 있는 클래스입니다. 
 
-"Java main" (npm start같은) 게 실행되면 JVM에서 가상 환경을 만든다. 이 호
+"Java main" (npm start같은) 게 실행되면 JVM에서 가상 환경을 만든다. 바이트코드가 어디서든 동일하게 동작하도록 해 주도록 만들고 
 
 [^1]: 이것은 **[[Method Declaration Components]]**라고한다
