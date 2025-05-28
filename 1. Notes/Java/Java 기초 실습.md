@@ -26,13 +26,15 @@
 	- 클래스 다이어 그램과 다른 점: 클래스 다이어그램의 각 [[구현체]]들은 서버가 떴을 때 어떤 구현체가 사용될지 동적으로 변한다. 클래스 다이어그램이 서버에서 돌때 스냄샷
 	- 클라이언트 -> 회원 서비스(MemberServiceImpl) -> 메모리 회원 저장소
 # 2. 회원 도메인 개발
-### Grade ENUM
+### 1. Create Member package 
+- Package = Folder
+### 2. Grade ENUM
 - 회원 등급 설정
-### Member CLASS
+### 3. Member CLASS
 - 속성
 	- private Long id
 	- name
 	- grade
 - getter setter
 	- 해당 클래스의 속성값을 넣기/불러오기 위한 겟과 셋
-	- 속성은 Private이기때문에 
+	- 속성은 Private이기 때문에 겟과 셋으로 접근한다
