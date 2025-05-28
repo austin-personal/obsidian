@@ -20,3 +20,4 @@
 - 회원 저장소 interface: db가 바뀌어도 interface에서 다른 db를 연결하는 코드 한줄만 바꾸면 됨
 - 회원 서비스: MemberService interface와 MemberServiceImpl 로 구성
 	- implt은 구현이란 뜻
+- 회원 객체 다이어그램 클라이언트 -> 회원 서비스(MemberServiceImpl) -> 메모리 회원 저장소
