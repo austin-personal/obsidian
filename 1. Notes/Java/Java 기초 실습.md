@@ -56,6 +56,8 @@
 	- 이것들은 실제 DB에 저장하는 로직들이다. 
 		- 그렇기에 레포지토리와 연결 시켜야한다.
 		- 이떄 전에 만든"MemberRepo Interface" 를 선언한다. 
+		- `private final MemberRepository memberR`
+		- 하지만 인터페이스만 선언하면 NullExceptiion이 난다. 실제 Impl이 없기 때문이다. 
 - Methods
 	- join
 	- findMember
