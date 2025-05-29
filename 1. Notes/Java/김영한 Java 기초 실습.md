@@ -111,5 +111,10 @@
 4. MemberServiceImpl에는 해당 인터페이스의 생성자만 남긴다. 
 #### 7.2 여전한 문제
 - Appconfig에서 역활에 따른 구현이 잘 보이지 않는다. 
+- 중복되는 구현체
+
+# 8. AppConfig refactoring
+#### 8.1 중복 해결
+
 
 
