@@ -100,3 +100,4 @@
 	- ==누군가가 클라이언트인 orderServiceImpl 에 DiscountPolicy의 구현 객체를 대신 생성하고 주입해야한다==
 
 # 7. 관심사와 분리
+이
