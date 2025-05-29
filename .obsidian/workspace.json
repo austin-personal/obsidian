@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Java/김영한 Java 기초 실습.md",
+                "file": "1. Notes/Java/개념/IoC (inversion of control).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "김영한 Java 기초 실습"
+              "title": "IoC (inversion of control)"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
-    "1. Notes/Java/개념/다형성.md",
     "1. Notes/Java/김영한 Java 기초 실습.md",
+    "1. Notes/Java/개념/IoC (inversion of control).md",
+    "1. Notes/Java/개념/다형성.md",
     "Pasted image 20250529153954.png",
     "Pasted image 20250529153714.png",
     "1. Notes/Java/개념/SOLID.md",
