@@ -107,5 +107,5 @@
 1. AppConfig 클래스를 새로 생성
 2. 기존 MemberServiceImpl에 직접 인터페이스와 구현체를 정해줬던것을 없엔다.
 3. 없엔 로직을 AppConfig에 넣는다.
-4. 
+4. MemberServiceImpl에는 해당 인터페이스의 생성자만
 
