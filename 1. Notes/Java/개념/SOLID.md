@@ -95,7 +95,7 @@ public class Order {
         return discountStrategy.apply(basePrice);
     }
 }
-// 새로운 할인 정책은 DiscountStrategy 인터페이스 구현체만 추가하면 된다.
+// 해당 인터페
 ```
 
 ---
