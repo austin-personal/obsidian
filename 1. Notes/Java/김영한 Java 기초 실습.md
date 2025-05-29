@@ -105,5 +105,7 @@
 	- 해결:  ==누군가가 클라이언트인 orderServiceImpl 에 DiscountPolicy의 구현 객체를 대신 생성하고 주입해야한다==
 #### 7.1 AppConfig 생성
 1. AppConfig 클래스를 새로 생성
-2. 기존 M
+2. 기존 MemberServiceImpl에 직접 인터페이스와 구현체를 정해줬던것을 없엔다.
+3. 없엔 로직을 AppConfig에 넣는다.
+4. 
 
