@@ -162,3 +162,9 @@
 - 다르게 불리는 경우도 있다: 어셈블러
 
 # 12. Spring으로 전환
+### 12.1.  스프링 컨테이너에 설정 정보 추가하기
+1. AppConfig class에 @configuration 어노테이션 추가
+	- 각 메소드별로 @Bean 추가
+2. 클라이언트 객체에 ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class)
+	1. ApplicationContext 스프링 컨테이너
+
