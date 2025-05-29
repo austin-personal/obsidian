@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Java/logs.md",
+                "file": "1. Notes/Java/개념/SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logs"
+              "title": "SOLID"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "bf754729cb1b68ed",
   "lastOpenFiles": [
-    "2. BH/0. Task/2. BE/0. Logs - Meetings, Feelings, Action Items.md",
     "1. Notes/Java/logs.md",
+    "1. Notes/Java/개념/SOLID.md",
+    "2. BH/0. Task/2. BE/0. Logs - Meetings, Feelings, Action Items.md",
     "1. Notes/Java/개념/자바 프로젝트의 구성요소.md",
     "1. Notes/Java/Java 기초 실습.md",
     "Pasted image 20250528223411.png",
