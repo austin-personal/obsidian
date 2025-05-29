@@ -114,7 +114,10 @@
 - 중복되는 구현체
 
 # 8. AppConfig refactoring
+![[Pasted image 20250529153714.png]]
+
 #### 8.1 중복 해결
-#### 8.2 역활()과 구현이 잘 보이도록
+#### 8.2 역활(DiscountPolicy)과 구현(RateDiscountPolicy)이 잘 보이도록 변경
 
 
+# 9. 새로운 구조에서 할인 정책 
