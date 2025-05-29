@@ -209,8 +209,6 @@ public class MultiFunctionMachine implements Printer, Scanner, Fax {
 
 ## **5. Dependency Inversion Principle (DIP)**
 
-  
-
 **의존 역전 원칙**
 
 - **정의**:
@@ -221,13 +219,9 @@ public class MultiFunctionMachine implements Printer, Scanner, Fax {
         
     
 - **취지**: 구체 클래스 대신 인터페이스나 추상 클래스에 의존함으로써 결합도를 낮추고 유연성을 높인다.
-    
-
-  
-
 ### **예시**
 
-```
+```java
 // 잘못된 예: 구체 구현에 직접 의존
 public class MySQLConnection {
     public void connect() { /*…*/ }
