@@ -103,9 +103,11 @@
 - 6번에서의 문제
 	- 로미오 역할(인터페이스)을 하는 디카프리오(구현체)가 줄리엣역할(인터페이스)을 하는 여자주인공(구현체)을 직접 초핑하는 것
 	- 해결:  ==누군가가 클라이언트인 orderServiceImpl 에 DiscountPolicy의 구현 객체를 대신 생성하고 주입해야한다==
-#### 7.1 AppConfig 생성
+#### 7.1 생성자 주입
+- ㅅ
 1. AppConfig 클래스를 새로 생성
 2. 기존 MemberServiceImpl에 직접 인터페이스와 구현체를 정해줬던것을 없엔다.
 3. 없엔 로직을 AppConfig에 넣는다.
-4. MemberServiceImpl에는 해당 인터페이스의 생성자만
+4. MemberServiceImpl에는 해당 인터페이스의 생성자만 남긴다. 
+### 7
 
