@@ -259,7 +259,7 @@ public class UserRepository {
     // CRUD 메서드…
 }
 
-// 활용
+// main.java에서 의존성 넣기활용
 DBConnection conn = new MySQLConnection();
 UserRepository repo = new UserRepository(conn);
 ```
