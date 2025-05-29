@@ -87,9 +87,10 @@
 # 5. 새로운 할인 정책 개발
 - 새로운 할인 정책 구현체 생성
 - orderService에 
-	-`private orderSertvice = new RateDiscountPolicy` 라고 설정해둠. 
+	-`private DiscountPolicySertvice = new RateDiscountPolicy` 라고 설정해둠. 
 # 6. 새로운 할인 정책 개발의 문제점
-  - 문제:
+- 문제:
 	  - 폴리시를 바꿀때마다(확장), OrderService에 수정을 해야함 (OCP에 위배)
 - 해결: 
+	- OrderService에는 추상화에만 의존하도록 바꿈
 	- 
