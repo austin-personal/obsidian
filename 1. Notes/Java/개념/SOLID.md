@@ -10,7 +10,6 @@
     
 - **취지**: 한 클래스가 여러 기능을 가지면, 기능 변경 시 영향을 받는 부분이 많아져 유지보수가 어려워진다.
 ### **예시**
-
 ```java
 // 잘못된 예: User 클래스가 사용자 정보 저장과 이메일 발송을 함께 담당
 public class User {
@@ -47,21 +46,14 @@ public class EmailService {
 ---
 
 ## **2. Open/Closed Principle (OCP)**
-
-  
-
 **개방-폐쇄 원칙**
 
 - **정의**: 소프트웨어 요소(class, module, function 등)는 **확장에는 열려(Open)** 있어야 하고, **수정에는 닫혀(Closed)** 있어야 한다.
     
 - **취지**: 기존 코드를 수정하지 않고 기능을 추가할 수 있어야 안정성이 높아진다.
-    
-
-  
-
 ### **예시**
 
-```
+```java
 // 잘못된 예: 새로운 할인 정책을 추가할 때마다 Order 클래스 수정 필요
 public class Order {
     public double calculatePrice(double basePrice, String discountType) {
