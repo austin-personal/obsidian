@@ -136,7 +136,7 @@ public class Square extends Rectangle {
 
 **개선**: 상속 대신 구성(composition) 또는 별도 인터페이스 사용
 
-```
+```java
 public interface Shape {
     int getArea();
 }
@@ -159,20 +159,14 @@ public class Square implements Shape {
 
 ## **4. Interface Segregation Principle (ISP)**
 
-  
-
 **인터페이스 분리 원칙**
 
 - **정의**: 클라이언트는 자신이 사용하지 않는 메서드에 의존하지 않아야 한다.
     
 - **취지**: 거대한 인터페이스 하나 대신, 역할별로 세분화된 인터페이스를 제공하여 불필요한 구현 부담을 줄인다.
-    
-
-  
-
 ### **예시**
 
-```
+```java
 // 잘못된 예: 멀티 기능 인터페이스
 public interface MultiFunctionDevice {
     void print(Document d);
