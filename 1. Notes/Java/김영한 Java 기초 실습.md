@@ -165,6 +165,9 @@
 ### 12.1.  스프링 컨테이너에 설정 정보 추가하기
 1. AppConfig class에 @configuration 어노테이션 추가
 	- 각 메소드별로 @Bean 추가
-2. 클라이언트 객체에 ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class)
-	1. ApplicationContext 스프링 컨테이너
+2. 클라이언트 객체에 스프링 컨테이너 생성자 생성: `ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class)`
+3. `applicationContext.getBean(MemberService, MemberServoce.class)`로 구현객체 가져오기
+결론:
+- AppConfig를 더이상 자바로 연결해주는 것이 아니라, 스프링 컨테이너에 등록하고 클라리언트에서도 스프링컨테이너를 사용하는 것이다. 
+- 여기까지는 기존 AppConfig기능과 동일 오히려 어노테이션이 추가 되어 더 복잡해지기만 했는데 스프링 빈에 설정정보를 등록하는 게 좋은 이유는 뭘까? 
 
