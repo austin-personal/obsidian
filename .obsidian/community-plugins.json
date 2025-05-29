@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "omnisearch",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "obsidian-image-toolkit"
 ]
