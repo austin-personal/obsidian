@@ -153,4 +153,12 @@
 	- 내가 작성한 코드를 제어하고 대신 실행 -> 프레임워크 (JUnit)
 	- 내가 작성한 코드가 직접 제어의 흐름을 담당 -> 라이브러리
 
-### 
+#### [[DI (Dependency Injectyion)]]
+- AppConfig처럼 구현 객체를 대신 생성하여 다른 클래스에 의존성을 주입하는 것
+
+#### IoC Container & DI Container
+- AppConfig
+- 둘의 기능이 비슷하여 보통 DI container로 통용된다. 
+- 다르게 불리는 경우도 있다: 어셈블러
+
+# 12. Spring으로 전환
