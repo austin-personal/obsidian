@@ -92,6 +92,7 @@
 ![[Pasted image 20250529115353.png]]
 - 문제:
 	  - 폴리시를 바꿀때마다(확장), OrderService에 수정을 해야함 (OCP에 위배)
+	  - 상위 객체인 or
 - 해결: 
 	- `orderServiceImpl`는 DiscountPolicy라는 추상화에만 의존하도록 바꿈
-	- 
+	- 누군가가 클라이언트인 orderServiceImpl 에 DiscountPolicy의 구현 객체를 대신 생성하고 주입해야한다
