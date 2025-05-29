@@ -95,14 +95,12 @@ public class Order {
         return discountStrategy.apply(basePrice);
     }
 }
-// 해당 인터페
+// 해당 인터페이스의 구현체 주입은 Main.java에서 해주면 된다. 
 ```
 
 ---
 
 ## **3. Liskov Substitution Principle (LSP)**
-
-  
 
 **리스코프 치환 원칙**
 
