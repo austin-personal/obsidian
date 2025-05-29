@@ -107,13 +107,9 @@ public class Order {
 - **정의**: 자식 클래스는 언제나 부모 클래스로 교체해도 시스템의 정확성이 깨지지 않아야 한다.
     
 - **취지**: 상속 관계에서 “is-a” 관계가 올바르게 지켜져야 예측 가능한 동작이 가능하다.
-    
-
-  
-
 ### **예시**
 
-```
+```java
 // 잘못된 예: 사각형과 정사각형 관계에서 LSP 위반
 public class Rectangle {
     protected int width, height;
