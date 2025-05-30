@@ -185,4 +185,16 @@
 	1. Dynamically Set up dependency between beans and Inject dependency (DI)
 		1. Like DBT Run. The dependency(DAG) is dynamically set in runtime
 # 14. 스프링 컨테이너에 등록된 모든 Bean 조회
+컨테이너의 등록된 빈들 확인하는 테스트 코드
+```java
+void findApplicationBean() { String[] beanDefinitionNames = ac.getBeanDefinitionNames(); for (String beanDefinitionName : beanDefinitionNames) { BeanDefinition beanDefinition = ac.getBeanDefinition(beanDefinitionName); //Role ROLE_APPLICATION: 직접 등록한 애플리케이션 빈 //Role ROLE_INFRASTRUCTURE: 스프링이 내부에서 사용하는 빈 
+if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean = ac.getBean(beanDefinitionName); System.out.println("name=" + beanDefinitionName + " object=" + bean);
+```
+스프링 컨테이너에서 스프링 빈을 찾는 가장 기본적인 조회 방법 
+- `ac.getBean(빈이름, 타입)` `
+- ac.getBean(타입)
+	- 타입으로 찾는 경우는 중복이 발생할 수 있다. 
+# 15. 스프링 빈 조회
+### 15.1 이름으로 조회
 
+# 16. 스프링 빈 조회 - 동일한 타입이 둘이상일때
