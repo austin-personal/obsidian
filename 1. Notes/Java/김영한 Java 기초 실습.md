@@ -171,3 +171,18 @@
 - AppConfig를 더이상 자바로 연결해주는 것이 아니라, 스프링 컨테이너에 등록하고 클라리언트에서도 스프링컨테이너를 사용하는 것이다. 
 - 여기까지는 기존 AppConfig기능과 동일 오히려 어노테이션이 추가 되어 더 복잡해지기만 했는데 스프링 빈에 설정정보를 등록하는 게 좋은 이유는 뭘까? 뒤에 설명.. 
 
+![[4. 스프링 컨테이너와 스프링 빈.pdf]]
+# 13. 스프링 컨테이너 생성
+### 13.1 What is Spring Container
+- ApplicationContext = Spring Container = Interface
+	- 이 인터페이스에 구현체가 `AnnotationConfigApplicationContext(AppConfig.class)`
+		- AppConfig 설정 파일이 Annotation 기반이기 때문에 `AnnotationConfigApplicationContext 를 사용함
+### 13.2 How Spring Container works
+1. Declare ApplicationContext in main file
+2. Set up spring container:
+	1. Spring Container reads config file and stores Bean name which is method name and Bean's object which is the return value (It is a Impl class here) under @Bean Annotation.
+3. Set up Bean Dependency:
+	1. Dynamically Set up dependency between beans and Inject dependency (DI)
+		1. Like DBT Run. The dependency(DAG) is dynamically set in runtime
+# 14. 스프링 컨테이너에 등록된 모든 Bean 조회
+
