@@ -207,4 +207,19 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 	- `MemberRepository memberRepository = ac.getBean("memberRepository1", MemberRepository.class);`
 # 17. 스프링 빈 조회 - 상속관계
 모든 클래스는 [[Object class]] 라는 공통 조상 클래스를 갖는다. 그렇기에 모든 클래스는 Object 로 검색이 가능하다. 
-대전제는 해당 타입의 하위에 있는 
+대전제는 특정 타입에 대해 검색하면 해당 타입의 하위에 있는 모든 객체를 모두 포함한다
+# 18. BeanFactory 와 ApplicationContext
+![[Pasted image 20250530160710.png]]
+### 18.1 BeanFactory
+- It is the highest interface of Spring Container
+- It manages and searchs for Spring Beans
+- It concludes ApplicaitonContext interface and AnnotationCongifApplicationContext
+	- So we can use getBean() Method
+### 18.2 ApplicaitonContext
+- It is an interface that is inherited all functions from BeanFactory and include extra functions
+- Functions
+	- All BeanFactory functions 
+	- Message
+![[스크린샷 2025-05-30 오후 4.18.07.png]]
+
+# 19. 다양한 설정 형식 지원 - 자바, XML
