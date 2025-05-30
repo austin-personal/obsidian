@@ -198,3 +198,13 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 ### 15.1 이름으로 조회
 
 # 16. 스프링 빈 조회 - 동일한 타입이 둘이상일때
+- 동일한 타입으로 두 구현객체가 있으면 스프링 빈은 오류를 생성한다. 
+	- 하지만 동일한 타입으로 두 구현객체는 있을 수 있다. 
+		- 에를 들어, memberRepo 라는 타입에
+			- memory10
+			- memory 100 등등
+- 이를 해결하기 위해서는 각 구현객체별로 이름을 지정해주면 된다. 
+	- `MemberRepository memberRepository = ac.getBean("memberRepository1", MemberRepository.class);`
+# 17. 스프링 빈 조회 - 상속관계
+모든 클래스는 [[Object class]] 라는 공통 조상 클래스를 갖는다. 그렇기에 모든 클래스는 Object 로 검색이 가능하다. 
+대전제는 해당 타입의 하위에 있는 

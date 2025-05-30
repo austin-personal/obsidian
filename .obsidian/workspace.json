@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf754729cb1b68ed",
+  "active": "cc05ccd7d09b2b17",
   "lastOpenFiles": [
-    "2. BH/0. Task/2. BE/1. Loan application.md",
     "1. Notes/Java/김영한 Java 기초 실습.md",
+    "1. Notes/Java/개념/Object class.md",
+    "2. BH/0. Task/2. BE/1. Loan application.md",
     "4. 스프링 컨테이너와 스프링 빈.pdf",
     "스크린샷 2025-05-29 오후 10.43.38.png",
     "Pasted image 20250529222304.png",
