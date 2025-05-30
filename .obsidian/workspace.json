@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. BH/1. Logs - Meetings, Feelings, Action Items.md",
+                "file": "2_bhk/1. Logs - Meetings, Feelings, Action Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "1. Logs - Meetings, Feelings, Action Items"
-            }
-          },
-          {
-            "id": "bf754729cb1b68ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Notes/Java/김영한 Java 기초 실습.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "김영한 Java 기초 실습"
             }
           },
           {
@@ -41,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. BH/1. Logs - Meetings, Feelings, Action Items.md",
+                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Logs - Meetings, Feelings, Action Items"
+              "title": "1. LoanApplication"
+            }
+          },
+          {
+            "id": "5de2d9544941c627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_notes/Java/김영한 Java Spring 기초 실습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "김영한 Java Spring 기초 실습"
+            }
+          },
+          {
+            "id": "f2232abb7bf76b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_notes/Java/개념/Singletone Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singletone Container"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Java/김영한 Java 기초 실습.md",
+                "file": "1_notes/Java/김영한 Java Spring 기초 실습.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 김영한 Java 기초 실습"
+              "title": "Outline of 김영한 Java Spring 기초 실습"
             }
           },
           {
@@ -211,54 +225,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf754729cb1b68ed",
+  "active": "5de2d9544941c627",
   "lastOpenFiles": [
+    "1_notes/Java/개념/static.md",
+    "1_notes/Java/김영한 Java Spring 기초 실습.md",
+    "Pasted image 20250530173406.png",
+    "1_notes/Java/개념/Singletone Container.md",
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
+    "2_bhk/1. Logs - Meetings, Feelings, Action Items.md",
+    "1_notes/Ai_tool/Untitled.md",
     "스크린샷 2025-05-30 오후 4.18.07.png",
     "Pasted image 20250530161754.png",
     "스크린샷 2025-05-30 오후 4.17.47.png",
     "Pasted image 20250530160710.png",
-    "2. BH/1. Logs - Meetings, Feelings, Action Items.md",
-    "2. BH/0. Task/2. BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
-    "2. BH/0. Task/2. BE/0. Loan Journey Revamp End to End (E2E)  파악",
-    "1. Notes/Java/김영한 Java 기초 실습.md",
-    "1. Notes/Java/개념/Object class.md",
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악",
+    "1_notes/Java/개념/Object class.md",
     "4. 스프링 컨테이너와 스프링 빈.pdf",
     "스크린샷 2025-05-29 오후 10.43.38.png",
     "Pasted image 20250529222304.png",
     "Pasted image 20250529222204.png",
     "Pasted image 20250529215542.png",
     "Pasted image 20250529214832.png",
-    "스크린샷 2025-05-29 오후 9.45.24.png",
-    "스크린샷 2025-05-29 오후 9.23.24.png",
-    "1. Notes/Java/개념/MyBatis.md",
-    "1. Notes/Java/개념/DI (Dependency Injectyion).md",
-    "1. Notes/Java/개념/IoC (inversion of control).md",
-    "1. Notes/Java/개념/다형성.md",
-    "1. Notes/Java/개념/SOLID.md",
+    "1_notes/Java/개념/MyBatis.md",
+    "1_notes/Java/개념/DI (Dependency Injectyion).md",
+    "1_notes/Java/개념/IoC (inversion of control).md",
+    "1_notes/Java/개념/다형성.md",
+    "1_notes/Java/개념/SOLID.md",
     "3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용.pdf",
-    "1. Notes/Java/logs.md",
-    "1. Notes/Java/개념/자바 프로젝트의 구성요소.md",
-    "1. Notes/Java/개념/구현체.md",
-    "1. Notes/Java/개념/Class.md",
-    "1. Notes/Java/개념/\bJVM.md",
-    "1. Notes/Java/개념/Method Declaration Components.md",
-    "1. Notes/Java/개념",
-    "1. Notes/Java/Java basic.md",
-    "1. Notes/Java/개념/Gradle.md",
+    "1_notes/Java/logs.md",
+    "1_notes/Java/개념/자바 프로젝트의 구성요소.md",
+    "1_notes/Java/개념/구현체.md",
+    "1_notes/Java/개념/Class.md",
+    "1_notes/Java/개념/\bJVM.md",
+    "1_notes/Java/개념/Method Declaration Components.md",
+    "1_notes/Java/개념",
+    "1_notes/Java/Java basic.md",
+    "1_notes/Java/개념/Gradle.md",
     "**1. Gradle의 주요 역할**.md",
-    "2. BH/0. Task/1. dbt",
-    "0. Daily/2025-05-28.md",
-    "1. Notes/Java",
-    "2. BH/0. Task/0. Knowledge Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
-    "2. BH/0. Task/2. BE",
-    "2. BH/0. Task/0. Knowledge Transfer/0. 환경설정/1. Cline 설정하기.md",
-    "0. Daily/2025-05-27.md",
-    "0. Daily/2025-05-26.md",
-    "0. Daily",
-    "1. Notes/Ai tool/MCP.md",
-    "1. Notes/Ai tool",
-    "1. Notes",
-    "2. BH/0. Task/0. Knowledge Transfer/1. Target.md",
+    "2_bhk/0_task/1_dbt",
+    "0_daily/2025-05-28.md",
+    "1_notes/Java",
+    "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
+    "2_bhk/0_task/2_BE",
+    "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/1. Cline 설정하기.md",
+    "0_daily/2025-05-27.md",
+    "0_daily/2025-05-26.md",
+    "0_daily",
+    "1_notes/Ai_tool",
+    "1_notes",
     "Untitled.canvas"
   ]
 }

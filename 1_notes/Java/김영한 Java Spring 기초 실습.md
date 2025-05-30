@@ -223,3 +223,25 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 ![[스크린샷 2025-05-30 오후 4.18.07.png]]
 
 # 19. 다양한 설정 형식 지원 - 자바, XML
+- It is very flexible to set Spring Container with different language
+	- xml의 appConfig 를 만들어 보았다. 완전 동일하다.
+# 20. 스프링 빈 설정 메타 정보 - BeanDefinition
+- The reason why it is so flexible is There is a 추상화 레이어 named BeanDefinition
+
+# 21. [[Singletone Container]]
+### 21.1 WebApp and Singletone
+- **Intro/Prob/Why Singletone is required**
+	- Spring is mostly used in webapp for enterprise
+	- An WebApp Spring project has multiple users. In current architecture, Our app create an object in every request. It means It will create 5M object if there are 5M request.  
+		- It will cause drastic memory usage which is bad
+	![[Pasted image 20250530173406.png]]
+	- Can See the memberService object has different reference number. 
+- Solution:
+	- Set Spring to share one object for all user traffics
+
+# 22. Singletone pattern
+- What is it? 
+	- It ensures a class has only **one** instance throughout the application’s lifecycle and provides a **global point of access** to it.
+		- One JVM One Object
+		- Dont allow duplicated object
+	-  
