@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +228,8 @@
   },
   "active": "cc05ccd7d09b2b17",
   "lastOpenFiles": [
+    "스크린샷 2025-06-02 오후 4.35.29.png",
+    "스크린샷 2025-06-02 오후 4.33.46.png",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2. ServerLog 파악하기.md",
     "1_notes/Java/개념/static.md",
@@ -246,7 +249,6 @@
     "Pasted image 20250529222304.png",
     "Pasted image 20250529222204.png",
     "Pasted image 20250529215542.png",
-    "Pasted image 20250529214832.png",
     "1_notes/Java/개념/MyBatis.md",
     "1_notes/Java/개념/DI (Dependency Injectyion).md",
     "1_notes/Java/개념/IoC (inversion of control).md",
@@ -269,7 +271,6 @@
     "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
     "2_bhk/0_task/2_BE",
     "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/1. Cline 설정하기.md",
-    "0_daily/2025-05-27.md",
     "0_daily",
     "1_notes/Ai_tool",
     "1_notes",
