@@ -30,3 +30,5 @@ The word **static** literally means “at rest” or “not changing,” and in 
 4. **캡슐화 & 접근 제어**
     
     - private static 으로 선언해 외부에서 직접 접근을 막고, public static 메서드(예: getInstance())를 통해 제어된 접근만 허용할 수도 있습니다.
+
+
