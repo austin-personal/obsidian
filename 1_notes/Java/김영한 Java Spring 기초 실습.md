@@ -282,3 +282,6 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 	- 이는 싱글톤에 위배되는 것처럼 보인다. 
 - 하지만 이는 문제가 되지 않는다. 
 	- 위의 경우에서는 MemberService로 부터 시작된 new MemoryMemberRepository가 실행 되고 나서 다음의 것은 실행되지 않는다. 
+	- 이는 Configuration이 해결해준다.
+# 26. @Configuration과 바이트코드 조작의 마법
+

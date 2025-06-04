@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_notes/Java/김영한 Java Spring 기초 실습.md",
+                "file": "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "김영한 Java Spring 기초 실습"
+              "title": "0_First_meeting_4th_June"
             }
           },
           {
@@ -228,6 +228,9 @@
   },
   "active": "5de2d9544941c627",
   "lastOpenFiles": [
+    "1_notes/Java/김영한 Java Spring 기초 실습.md",
+    "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
+    "2_bhk/개발팀 생산성 측정",
     "스크린샷 2025-06-04 오후 3.08.21.png",
     "Pasted image 20250604150755.png",
     "5. 싱글톤 컨테이너.pdf",
@@ -237,7 +240,6 @@
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
     "1_notes/Java/개념/static.md",
     "1_notes/Java/개념/Singletone Container.md",
-    "1_notes/Java/김영한 Java Spring 기초 실습.md",
     "Pasted image 20250530173406.png",
     "2_bhk/1. Logs - Meetings, Feelings, Action Items.md",
     "1_notes/Ai_tool/Untitled.md",
@@ -249,7 +251,6 @@
     "1_notes/Java/개념/Object class.md",
     "4. 스프링 컨테이너와 스프링 빈.pdf",
     "스크린샷 2025-05-29 오후 10.43.38.png",
-    "Pasted image 20250529222304.png",
     "1_notes/Java/개념/MyBatis.md",
     "1_notes/Java/개념/DI (Dependency Injectyion).md",
     "1_notes/Java/개념/IoC (inversion of control).md",
@@ -273,7 +274,6 @@
     "2_bhk/0_task/2_BE",
     "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/1. Cline 설정하기.md",
     "0_daily",
-    "1_notes/Ai_tool",
     "Untitled.canvas"
   ]
 }
