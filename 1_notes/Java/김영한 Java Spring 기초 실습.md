@@ -228,6 +228,9 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 # 20. 스프링 빈 설정 메타 정보 - BeanDefinition
 - The reason why it is so flexible is There is a 추상화 레이어 named BeanDefinition
 
+
+
+![[5. 싱글톤 컨테이너.pdf]]
 # 21. [[Singletone Container]]
 ### 21.1 WebApp and Singletone
 - **Intro/Prob/Why Singletone is required**
@@ -244,4 +247,38 @@ if (beanDefinition.getRole() == BeanDefinition.ROLE_APPLICATION) { Object bean =
 	- It ensures a class has only **one** instance throughout the application’s lifecycle and provides a **global point of access** to it.
 		- One JVM One Object
 		- Dont allow duplicated object
-	-  
+-  싱글톤 패턴의 문제점
+	- 코드가 많이 추가로 작성되어야함
+		- 새로 싱글톤 인스턴스 선언하고 프라이빗으로 해야함.
+		- 하나의 인스턴스는 곳 전역 인스턴스인데, 이는 의존성 관리/파악이 어렵게된다
+		- **단위 테스트(Unit Test)**나 **모킹(Mock)**이 필요한 상황에서 싱글톤 인스턴스가 전역으로 고착되어 있으면, 테스트 격리가 매우 어려워집니다.
+		- 인터페이스를 구현한 다양한 버전(예: ConfigManager의 로컬 파일 기반, 클라우드 기반 등)을 상황에 따라 전환해야 하는데, 싱글톤 패턴으로 직접 new 하거나 getInstance()를 호출하도록 설계되어 있으면, 이 부분을 유연하게 교체하기 힘듭니다.
+		- 싱글톤을 직접 호출하는 코드(A 클래스)가 ConfigManager.getInstance() 처럼 구체 클래스를 의존하게 되면, 추상화된 인터페이스가 아닌 구체 구현체에 의존하는 설계가 됩니다.
+- 하지만 스프링 컨테이너는 싱글톤 패턴의 단점은 없에고 장점만 갖고 있다. 
+
+# 23. Singletone Container
+- 싱글톤 컨테이너 = 스프링 컨테이너
+- 빈으로만 구현객체를 등록해놓으면 싱글톤으로 유지할 수 있다. 
+- 싱글톤 패턴의 지저분한 코드를 안써도 된다
+- 그냥 빈에 등록해놓으면 끝!
+
+
+# 24. Singletone Container사용시 주의 점 (중요)
+- 많은 사람들이 이 객체를 공유하기에 Stateless하게 만들어야함
+	- 특정 유저에게 의존하거나 값을 바꾸지 못하게 설계
+	- 가급적 읽기만 가능하게
+	- 필드 대신에 자바에서 공유되지 않는 지역변수 파라미터 등 사용
+	- 공유 필드로 설계하는 것을 조심 해야한다. 
+- 예제:
+	- 오더라는 객체에 this.price를 포함하는 클래스가 있다고 해보자.
+	- 클래스에는 Stateless하게 바로 변수를 넘겨버리기
+	- 객체 생성과 할당은 클래스에 바로 넣는게 아니라 지역변수 사용하기
+
+# 25. @Configuration 과 싱글톤
+![[스크린샷 2025-06-04 오후 3.08.21.png]]
+- 간단히 생각했을때 기존 코드에서의 싱글톤 문제
+	- MemberService에서도 new MemoryMemberRepository를 실행
+	- OrderService에서도 new MemoryMemberRepository를 실행
+	- 이는 싱글톤에 위배되는 것처럼 보인다. 
+- 하지만 이는 문제가 되지 않는다. 
+	- 위의 경우에서는 MemberService로 부터 시작된 new MemoryMemberRepository가 실행 되고 나서 다음의 것은 실행되지 않는다. 
