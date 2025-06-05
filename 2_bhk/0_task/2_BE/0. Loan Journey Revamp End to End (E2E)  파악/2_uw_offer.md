@@ -5,7 +5,47 @@
 		1. underwriting_logs 와 evaluation_logs 에 추가하기 
 	3. truecredits.tc_business_event
 		1. underwriting_logs에 추가
+			1. [문제가 있음] 이벤트가 개많음
 2. Underwriting/Offer 파악하기
 3. Underwriting/Offer 테이블 Data_log에 추가하기
 4. prerequisite파악하기
 5. prerequisite 테이블들 Data_log에 추가하기
+   
+# All events
+
+- __대출/심사 관련__
+
+  - UnderwritingStarted
+  - UnderwritingCreated
+  - EvaluationPassed
+  - LoanRejectedEvent
+  - LoanWithdrawEvent
+  - ReroutingRequiredEvent
+  - LoanJourneyEventFireDone
+  - OverDueChargesAppliedOnPartnerLoanEvent
+
+- __오퍼/제안 관련__
+
+  - OfferCreatedEvent
+  - OfferTakenEvent
+  - OfferDisbursementRequestedEvent
+  - PrerequisiteStartEvent
+
+- __문서/계약 관련__
+
+  - EvaluationDocumentChangeEvent
+  - LoanDocumentEvent
+  - DisbursementEvent
+
+- __마케팅/동의/알림 등__
+
+  - ConsentStored
+  - SmsNotificationEvent
+
+- __기타__
+
+  - BankTransactionEvent
+  - PartnerPennyDropEvent
+  - LoanClosedEvent
+
+
