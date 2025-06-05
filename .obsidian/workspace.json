@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2. ServerLog 파악하기.md",
+                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/ServerLog 파악하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. ServerLog 파악하기"
+              "title": "ServerLog 파악하기"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
+                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_First_meeting_4th_June"
+              "title": "2_uw_offer"
             }
           },
           {
@@ -228,16 +228,17 @@
   },
   "active": "5de2d9544941c627",
   "lastOpenFiles": [
-    "1_notes/Java/김영한 Java Spring 기초 실습.md",
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/ServerLog 파악하기.md",
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1_LoanApplication.md",
     "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
+    "1_notes/Java/김영한 Java Spring 기초 실습.md",
     "2_bhk/개발팀 생산성 측정",
     "스크린샷 2025-06-04 오후 3.08.21.png",
     "Pasted image 20250604150755.png",
     "5. 싱글톤 컨테이너.pdf",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2. ServerLog 파악하기.md",
     "스크린샷 2025-06-02 오후 4.35.29.png",
     "스크린샷 2025-06-02 오후 4.33.46.png",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1. LoanApplication.md",
     "1_notes/Java/개념/static.md",
     "1_notes/Java/개념/Singletone Container.md",
     "Pasted image 20250530173406.png",
@@ -272,7 +273,6 @@
     "1_notes/Java",
     "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
     "2_bhk/0_task/2_BE",
-    "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/1. Cline 설정하기.md",
     "0_daily",
     "Untitled.canvas"
   ]
