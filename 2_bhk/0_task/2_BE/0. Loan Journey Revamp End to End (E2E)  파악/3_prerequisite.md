@@ -4,6 +4,8 @@ tc_video_kyc_attempt
 tc_video_kyc_attempt_result
 tc_video_kyc_loan_attempt_map
 
+
+
 # Selfie
 # autopay
 https://dev.truebalance.cc/api/v2/emandate/register/details?verificationMode=UPI&pgCompany=PAYU&offerId=1007&bankAccountId=501&lendingPartner=TC

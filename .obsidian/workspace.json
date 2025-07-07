@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/ServerLog 파악하기.md",
+                "file": "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/3_prerequisite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ServerLog 파악하기"
-            }
-          },
-          {
-            "id": "5de2d9544941c627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ"
+              "title": "3_prerequisite"
             }
           },
           {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +212,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5de2d9544941c627",
+  "active": "cc05ccd7d09b2b17",
   "lastOpenFiles": [
+    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1_LoanApplication.md",
+    "1_notes/productivity/DORA-DevOps_Research_and_Assessment.md",
+    "스크린샷 2025-06-17 오후 8.53.32.png",
+    "스크린샷 2025-06-17 오후 8.53.05.png",
+    "1_notes/git_command.md",
+    "1_notes/productivity",
+    "0_daily/Untitled.md",
+    "0_Summary/obsidian_summariser/readme.md",
+    "0_Summary/obsidian_summariser/pyproject.toml",
+    "0_Summary/pyproject.toml",
+    "0_Summary/readme.md",
+    "0_Summary/read.me",
+    "0_Summary/obsidian_summariser/cli.py",
+    "0_Summary/obsidian_summariser/summarizers/daily.py",
+    "0_Summary/obsidian_summariser/summarizers",
+    "0_Summary/obsidian_summariser/utils.py",
+    "0_Summary/obsidian_summariser/git_utils.py",
+    "0_Summary/obsidian_summariser/config.py",
     "ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ.md",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/3_prerequisite.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
     "temp_image_1749609088188.png",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/4_business_info.md",
     "스크린샷 2025-06-09 오후 3.12.09.png",
@@ -242,38 +245,20 @@
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/ServerLog 파악하기.md",
     "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
     "1_notes/Java/김영한 Java Spring 기초 실습.md",
-    "2_bhk/개발팀 생산성 측정",
     "스크린샷 2025-06-04 오후 3.08.21.png",
     "Pasted image 20250604150755.png",
-    "5. 싱글톤 컨테이너.pdf",
     "스크린샷 2025-06-02 오후 4.35.29.png",
     "스크린샷 2025-06-02 오후 4.33.46.png",
     "1_notes/Java/개념/static.md",
     "1_notes/Java/개념/Singletone Container.md",
-    "Pasted image 20250530173406.png",
     "1_notes/Ai_tool/Untitled.md",
-    "스크린샷 2025-05-30 오후 4.18.07.png",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악",
     "1_notes/Java/개념/Object class.md",
-    "4. 스프링 컨테이너와 스프링 빈.pdf",
     "1_notes/Java/개념/MyBatis.md",
     "1_notes/Java/개념/DI (Dependency Injectyion).md",
     "1_notes/Java/개념/IoC (inversion of control).md",
     "1_notes/Java/개념/다형성.md",
     "1_notes/Java/개념/SOLID.md",
-    "3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용.pdf",
     "1_notes/Java/logs.md",
-    "1_notes/Java/개념/자바 프로젝트의 구성요소.md",
-    "1_notes/Java/개념/구현체.md",
-    "1_notes/Java/개념/Class.md",
-    "1_notes/Java/개념/\bJVM.md",
-    "1_notes/Java/개념/Method Declaration Components.md",
-    "1_notes/Java/개념",
-    "1_notes/Java/Java basic.md",
-    "2_bhk/0_task/1_dbt",
-    "1_notes/Java",
-    "2_bhk/0_task/2_BE",
-    "0_daily",
     "Untitled.canvas"
   ]
 }
