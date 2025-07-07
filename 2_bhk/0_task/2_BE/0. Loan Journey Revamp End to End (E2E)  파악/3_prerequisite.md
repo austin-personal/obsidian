@@ -4,7 +4,7 @@ tc_video_kyc_attempt
 tc_video_kyc_attempt_result
 tc_video_kyc_loan_attempt_map
 
-
+sddsd
 
 # Selfie
 # autopay
