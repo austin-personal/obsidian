@@ -11,17 +11,33 @@
             "id": "af179078674a2fe4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1_notes/Ai_data/MCP 따라해보기.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "MCP 따라해보기"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "13cb7b829fea05d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-15 23.40.10.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,14 +176,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "5657f0a139f43ada",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f3e9d912c0df77aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +215,22 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af179078674a2fe4",
+  "active": "13cb7b829fea05d0",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
+    "Excalidraw",
+    "1_notes/Ai_data/MCP 따라해보기.md",
     "1_notes/DevOps/DevLake_logs.md",
     "스크린샷 2025-07-15 오후 1.14.20.png",
     "0_daily/2025-07-15.md",
     "Untitled.canvas",
     "1_notes/DevOps/DORA-DevOps_Research_and_Assessment.md",
     "1_notes/git_command.md",
-    "1_notes/Ai_data/MCP 따라해보기.md",
     "2_bhk/1. Logs - Meetings, Feelings, Action Items.md",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/3_prerequisite.md",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
@@ -210,7 +249,6 @@
     "0_Summary/obsidian_summariser/summarizers",
     "0_Summary/obsidian_summariser/utils.py",
     "0_Summary/obsidian_summariser/git_utils.py",
-    "0_Summary/obsidian_summariser/config.py",
     "ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ.md",
     "temp_image_1749609088188.png",
     "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/4_business_info.md",
@@ -229,7 +267,6 @@
     "1_notes/Ai_data/Untitled.md",
     "1_notes/Java/개념/Object class.md",
     "1_notes/Java/개념/MyBatis.md",
-    "1_notes/Java/개념/DI (Dependency Injectyion).md",
-    "1_notes/Java/개념/IoC (inversion of control).md"
+    "1_notes/Java/개념/DI (Dependency Injectyion).md"
   ]
 }
