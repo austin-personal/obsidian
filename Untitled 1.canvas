@@ -1,11 +1,7 @@
 {
 	"nodes":[
-		{"id":"d3694a09e2101dfe","x":-325,"y":-3,"width":250,"height":60,"type":"text","text":"Mysql"},
-		{"id":"03f3c72480ba4775","x":60,"y":-3,"width":250,"height":60,"type":"text","text":"Grafana"},
-		{"id":"0862719b140a3136","x":-325,"y":-180,"width":250,"height":60,"type":"text","text":"Github"}
+		{"id":"3b1653869678bbd0","x":-480,"y":-120,"width":939,"height":600,"type":"file","file":"Pasted image 20250716170738.png"},
+		{"id":"f5109c424100c3cc","x":-312,"y":-118,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[
-		{"id":"dd79c83ccba5848e","fromNode":"0862719b140a3136","fromSide":"bottom","toNode":"d3694a09e2101dfe","toSide":"top"},
-		{"id":"2701dba0119c653e","fromNode":"d3694a09e2101dfe","fromSide":"right","toNode":"03f3c72480ba4775","toSide":"left"}
-	]
+	"edges":[]
 }
