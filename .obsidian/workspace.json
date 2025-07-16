@@ -16,28 +16,15 @@
                 "file": "Untitled 1.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 11.036609119776783,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled 1"
             }
-          },
-          {
-            "id": "13cb7b829fea05d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-15 23.40.10.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +206,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "13cb7b829fea05d0",
+  "active": "af179078674a2fe4",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
+    "Untitled 1.canvas",
     "Excalidraw",
     "1_notes/Ai_data/MCP 따라해보기.md",
     "1_notes/DevOps/DevLake_logs.md",
