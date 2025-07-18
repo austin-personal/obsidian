@@ -25,7 +25,7 @@
 		{"id":"3d263a274063806f","type":"text","text":"MCP server - Google drive","x":560,"y":980,"width":165,"height":60},
 		{"id":"44018a3f4ffd6d42","type":"text","text":"MCP server - Google Calendar","x":560,"y":1060,"width":165,"height":80},
 		{"id":"796dcd066f93611a","type":"text","text":"Claude Code (Token ,URL)","x":-60,"y":861,"width":159,"height":100},
-		{"id":"6a02b7c29f8b3eac","type":"text","text":"Local","x":-43,"y":771,"width":125,"height":60,"color":"3"},
+		{"id":"6a02b7c29f8b3eac","type":"text","text":"Local","x":-60,"y":771,"width":159,"height":60,"color":"3"},
 		{"id":"56fb9eff9af4dfc9","type":"text","text":"EC2 - MCP Hub","x":255,"y":580,"width":470,"height":60,"color":"3"}
 	],
 	"edges":[
