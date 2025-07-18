@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Untitled 2.canvas",
                 "viewState": {
-                  "x": -19.526308442682225,
-                  "y": 182.52853544246233,
+                  "x": 443.9072939061465,
+                  "y": 884.1604590951994,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,9 +208,11 @@
   },
   "active": "af179078674a2fe4",
   "lastOpenFiles": [
+    "2025-07-18.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Pasted image 20250716170738.png",
     "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
-    "Untitled 1.canvas",
     "Excalidraw",
     "1_notes/Ai_data/MCP 따라해보기.md",
     "1_notes/DevOps/DevLake_logs.md",
@@ -249,12 +251,10 @@
     "1_notes/Java/김영한 Java Spring 기초 실습.md",
     "스크린샷 2025-06-04 오후 3.08.21.png",
     "Pasted image 20250604150755.png",
-    "스크린샷 2025-06-02 오후 4.35.29.png",
     "1_notes/Java/개념/static.md",
     "1_notes/Java/개념/Singletone Container.md",
     "1_notes/Ai_data/Untitled.md",
     "1_notes/Java/개념/Object class.md",
-    "1_notes/Java/개념/MyBatis.md",
-    "1_notes/Java/개념/DI (Dependency Injectyion).md"
+    "1_notes/Java/개념/MyBatis.md"
   ]
 }
