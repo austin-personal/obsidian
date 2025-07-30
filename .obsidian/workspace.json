@@ -170,9 +170,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "7a84298db69e7413",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,7 +203,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3e9d912c0df77aa",
+  "active": "93d4012d0f72ccc0",
   "lastOpenFiles": [
     "1_notes/Ai_data/사내 MCP server 만들기.md",
     "2_bhk/0_task/MUW 파악하기.md",
