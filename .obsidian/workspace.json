@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52b12236dd6f6ca3",
+  "active": "5657f0a139f43ada",
   "lastOpenFiles": [
     "1_notes/Ai_data/사내 MCP server 만들기.md",
     "2_bhk/0_task/MUW 파악하기.md",
