@@ -162,16 +162,6 @@
             }
           },
           {
-            "id": "5657f0a139f43ada",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "f3e9d912c0df77aa",
             "type": "leaf",
             "state": {
@@ -203,7 +193,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5657f0a139f43ada",
+  "active": "f3e9d912c0df77aa",
   "lastOpenFiles": [
     "1_notes/Ai_data/사내 MCP server 만들기.md",
     "2_bhk/0_task/MUW 파악하기.md",
