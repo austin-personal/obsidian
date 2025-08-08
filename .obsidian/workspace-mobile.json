@@ -63,9 +63,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-08-07 17.53.46.excalidraw"
             }
+          },
+          {
+            "id": "fabe1dc2a262a474",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-07 17.55.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-07 17.55.25.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,9 +218,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7dc9c3a9ea6673bf",
+  "active": "fabe1dc2a262a474",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-07 17.53.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-07 17.55.25.excalidraw.md",
     "Untitled 3.canvas",
     "Excalidraw/Drawing 2025-08-07 17.53.19.excalidraw.md",
     "Untitled 1.md",
@@ -256,7 +269,6 @@
     "2_bhk/0_task/0_Knowledge_Transfer/1. Target.md",
     "2_bhk/0_task/1_dbt/data_log에 새로운 테이블들 추가하기.md",
     "2_bhk/0_task/MUW 파악하기.md",
-    "2_bhk/1. Logs - Meetings, Feelings, Action Items.md",
-    "1_notes/Java/개념/Method Declaration Components.md"
+    "2_bhk/1. Logs - Meetings, Feelings, Action Items.md"
   ]
 }
