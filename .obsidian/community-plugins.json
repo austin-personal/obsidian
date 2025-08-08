@@ -1,10 +1,4 @@
 [
-  "calendar",
-  "omnisearch",
-  "templater-obsidian",
-  "table-editor-obsidian",
-  "obsidian-image-toolkit",
-  "editing-toolbar",
-  "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
