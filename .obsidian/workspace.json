@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_notes/Ai_data/사내 MCP server 만들기.md",
+                "file": "1_notes/DevOps/DevLake_logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사내 MCP server 만들기"
+              "title": "DevLake_logs"
             }
           }
         ]
