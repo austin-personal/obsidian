@@ -11,12 +11,14 @@
             "id": "93d4012d0f72ccc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-15 23.40.10.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -203,6 +205,7 @@
   },
   "active": "93d4012d0f72ccc0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
     "Excalidraw/Drawing 2025-08-07 17.53.46.excalidraw.md",
     "Excalidraw/Drawing 2025-08-07 17.55.25.excalidraw.md",
     "1_notes/DevOps/DevLake_logs.md",
@@ -217,7 +220,6 @@
     "2025-07-18.md",
     "Untitled 1.canvas",
     "Pasted image 20250716170738.png",
-    "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
     "Excalidraw",
     "1_notes/Ai_data/MCP 따라해보기.md",
     "스크린샷 2025-07-15 오후 1.14.20.png",
