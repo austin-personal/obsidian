@@ -1,93 +1,33 @@
 {
   "main": {
-    "id": "63bed2de8c907585",
+    "id": "74eeb211b5edf4fd",
     "type": "split",
     "children": [
       {
-        "id": "9098c5938e82c849",
+        "id": "2eb3ee2868e9eb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "beaed36acbc90e10",
+            "id": "336da267dc6d181c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0_First_meeting_4th_June"
-            }
-          },
-          {
-            "id": "cc46e0d8eee27be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4ef6bb1a256ad212",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 3.canvas",
-                "viewState": {
-                  "x": -33.5092849227264,
-                  "y": 206.06036995993242,
-                  "zoom": 0.4225010799079292
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "7dc9c3a9ea6673bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-07 17.53.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-07 17.53.46.excalidraw"
-            }
-          },
-          {
-            "id": "fabe1dc2a262a474",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-07 17.55.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-07 17.55.25.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bd46f38d474c712e",
+    "id": "352172d0ffe401f7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2af385f6f88ae235",
+        "id": "a5bc832ce9a7e7ff",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -100,7 +40,7 @@
         }
       },
       {
-        "id": "aa13a06533aa4d3d",
+        "id": "71e5d8e7e67cf334",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -117,7 +57,7 @@
         }
       },
       {
-        "id": "0767ad289ff1e4b9",
+        "id": "6f510d8e66674379",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -132,7 +72,7 @@
         }
       },
       {
-        "id": "6d81d7939b9d68f6",
+        "id": "ab4ff99e6df86697",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -145,11 +85,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "cfd55f755af5d58a",
+    "id": "5d4084f05fcabcae",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e337967b905fcdff",
+        "id": "a3cf963a8367d044",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -167,7 +107,7 @@
         }
       },
       {
-        "id": "0925861734e93cd2",
+        "id": "166e4531ac6d7fd2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -180,7 +120,7 @@
         }
       },
       {
-        "id": "a446f32cbf09138c",
+        "id": "a08413f5627b8284",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -194,7 +134,17 @@
         }
       },
       {
-        "id": "0a6c340cc1a5704e",
+        "id": "044413ddbb33a220",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4f6955d09e7d1888",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -204,71 +154,70 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fabe1dc2a262a474",
+  "active": "336da267dc6d181c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-08-07 17.53.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-07 17.55.25.excalidraw.md",
-    "Untitled 3.canvas",
-    "Excalidraw/Drawing 2025-08-07 17.53.19.excalidraw.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "2_bhk/개발팀 생산성 측정/0_First_meeting_4th_June.md",
-    "스크린샷 2025-07-15 오후 1.14.20.png",
-    "스크린샷 2025-06-02 오후 4.35.29.png",
-    "스크린샷 2025-05-29 오후 9.45.24.png",
+    "Pasted image 20250716170738.png",
+    "스크린샷 2025-05-29 오후 9.23.24.png",
     "Pasted image 20250529222204.png",
-    "스크린샷 2025-05-30 오후 4.18.07.png",
+    "스크린샷 2025-05-29 오후 6.32.36.png",
+    "Pasted image 20250604150755.png",
+    "Pasted image 20250528223411.png",
+    "Pasted image 20250529115353.png",
+    "Pasted image 20250530161754.png",
     "Pasted image 20250528183016.png",
-    "스크린샷 2025-05-29 오후 10.43.38.png",
-    "스크린샷 2025-05-29 오후 5.42.54.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "스크린샷 2025-05-28 오후 4.21.11.png",
+    "Untitled 1.md",
+    "스크린샷 2025-06-09 오후 3.12.09.png",
     "temp_image_1749609088188.png",
-    "5. 싱글톤 컨테이너.pdf",
-    "2025-07-18.md",
-    "Untitled 2.canvas",
     "3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용.pdf",
     "README.md",
+    "5. 싱글톤 컨테이너.pdf",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-07-18.md",
+    "Untitled.md",
     "4. 스프링 컨테이너와 스프링 빈.pdf",
     "0_daily/2025-05-28.md",
     "0_daily/2025-05-27.md",
     "0_daily/Untitled.md",
     "0_daily/2025-07-15.md",
     "0_daily",
-    "Excalidraw/Drawing 2025-07-15 23.40.10.excalidraw.md",
-    "Excalidraw",
-    "0_Summary/obsidian_summariser/summarizers/daily.py",
-    "0_Summary/obsidian_summariser/git_utils.py",
-    "0_Summary/obsidian_summariser/poetry.lock",
-    "0_Summary/obsidian_summariser/utils.py",
-    "0_Summary/obsidian_summariser/cli.py",
-    "0_Summary/obsidian_summariser/readme.md",
-    "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/0.  환경설정 - 회사 계정 생성 및 클론 받기.md",
-    "2_bhk/0_task/0_Knowledge_Transfer/0. 환경설정/1. Cline 설정하기.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/2_uw_offer.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/3_prerequisite.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/ServerLog 파악하기.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/1_LoanApplication.md",
-    "2_bhk/0_task/2_BE/0. Loan Journey Revamp End to End (E2E)  파악/4_business_info.md",
-    "2_bhk/0_task/0_Knowledge_Transfer/2..md",
-    "2_bhk/0_task/0_Knowledge_Transfer/1. Target.md",
-    "2_bhk/0_task/1_dbt/data_log에 새로운 테이블들 추가하기.md",
-    "2_bhk/0_task/MUW 파악하기.md",
-    "2_bhk/1. Logs - Meetings, Feelings, Action Items.md"
+    "1_notes/Java/개념/Method Declaration Components.md",
+    "1_notes/Java/개념/\bJVM.md",
+    "1_notes/Java/개념/Gradle.md",
+    "1_notes/Java/개념/다형성.md",
+    "1_notes/Java/개념/구현체.md",
+    "1_notes/Java/개념/Class.md",
+    "1_notes/Java/개념/SOLID.md",
+    "1_notes/Java/개념/Object class.md",
+    "1_notes/Java/개념/IoC (inversion of control).md",
+    "1_notes/Java/개념/MyBatis.md",
+    "1_notes/Java/개념/자바 프로젝트의 구성요소.md",
+    "1_notes/Java/개념/DI (Dependency Injectyion).md",
+    "1_notes/Java/개념/static.md",
+    "1_notes/Java/개념/Singletone Container.md",
+    "1_notes/DevOps/DORA-DevOps_Research_and_Assessment.md",
+    "1_notes/DevOps/DevLake_logs.md",
+    "1_notes/Java/김영한 Java Spring 기초 실습.md",
+    "1_notes/Java/개념",
+    "1_notes/DevOps",
+    "1_notes/Java",
+    "1_notes/Ai_data",
+    "1_notes",
+    "Excalidraw"
   ]
 }
